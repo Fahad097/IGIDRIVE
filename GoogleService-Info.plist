@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>691393917206-i9up9g4k2pk48ek6diejpdkqqtmeglde.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.691393917206-i9up9g4k2pk48ek6diejpdkqqtmeglde</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGn7yp1uJjASDZl3bVo8nVoSm5Lfn0P4s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>691393917206</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.igiitigidrive.IGIDrive</string>
+	<key>PROJECT_ID</key>
+	<string>igidrive-3dc63</string>
+	<key>STORAGE_BUCKET</key>
+	<string>igidrive-3dc63.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:691393917206:ios:2438304e582f79909d2037</string>
+</dict>
+</plist>
